@@ -1,0 +1,12 @@
+{
+  "name": "kad-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/LoginDemo.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "loginDemo": "node src/LoginDemo"
+  },
+  "author": "",
+  "license": "ISC"
+}
